@@ -3,7 +3,7 @@ import numpy as np
 import netCDF4 as nc
 import os
 
-file2=pd.read_excel("C:/Users/Dr. Asif Qureshi/Desktop/Name_lat.xlsx")
+file2=pd.read_excel("C:/Users/Desktop/Name_lat.xlsx")
 #print(file2)
 
 dir= "E:/RCP_DATA/DEPOSITIONS/TOTAL_DEP/RCP85/"
