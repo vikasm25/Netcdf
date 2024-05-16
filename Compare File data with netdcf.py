@@ -53,7 +53,7 @@ df.insert(0,"park",file2['Name '])
 df.insert(1,"lat",file2['Lat'])
 df.insert(2,"Log",file2['Long'])
 #data2=pd.DataFrame({'Lat':file2['Lat'],'Long':file2['Long'],'Model Conc':model_v})
-df.to_excel("D:/OneDrive - IIT Hyderabad/RCP85.xlsx",index=None)
+df.to_excel("D:/RCP85.xlsx",index=None)
 
 
 
